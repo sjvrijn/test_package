@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+title: "test_package"
+authors:
+  - family-names: sander
+    given-names: sander
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-09-09
+version: "0.1.0"
+repository-code: "https://github.com/sjvrijn/test_package"
+keywords:
+  - "key"
+  - "word"
+message: "If you use this software, please cite it using these metadata."

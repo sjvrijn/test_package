@@ -1,0 +1,28 @@
+# Changes here will be overwritten by Copier
+SelectCitation:
+- AddCitationFile_flag
+- AddCFFConvert_flag
+SelectCodeQualityFeatures:
+- SelectGitHubActions_flag
+SelectCommunityFeatures: []
+SelectDocumentationFeatures:
+- AddGitHubActionDocumentation_flag
+SelectGitHubActions:
+- AddGitHubActionBuild_flag
+- AddLinkCheck_flag
+SelectPublishReleaseFeatures:
+- SelectCitation_flag
+- AddChangeLog_flag
+- AddZenodo_flag
+_commit: 0.6.1-37-g6cad137
+_src_path: https://github.com/nlesc/python-template
+copyright_holder: sander
+email: s.vanrijn@esciencecenter.nl
+full_name: sander
+github_organization: sjvrijn
+keywords: key,word
+license: Apachev2
+package_name: test_package
+package_short_description: descr
+template_profile: ask
+version: 0.1.0
